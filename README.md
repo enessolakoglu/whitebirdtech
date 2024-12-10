@@ -1,0 +1,2 @@
+# whitebirdtech
+çalışma grubu

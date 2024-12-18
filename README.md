@@ -1,3 +1,2 @@
-# whitebirdtech
-çalışma grubu
-bu bir deneme yazısıdır
+# WBTWebProje
+web calışma projesi
